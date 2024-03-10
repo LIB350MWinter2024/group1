@@ -15,8 +15,11 @@ credits: true
 ## About the Collection
 
 Project Manager - Chloe Gold
+
 Object Preservation Manager - Cassidy Perkins
+
 Metadata Manager - Haley Sherman
+
 Repository Manager: Danielle Lichtenstein
 
 The Oregon Flora Collection (OFC) is a collection of botanical photographs and illustrations.
@@ -28,7 +31,13 @@ Winter 2024 - Kate Thornhill
 
 All of the objects used in the collection were sourced from:
 Oregon Digital
+
 Oregon Flora
+
 Digital Public Library of America
+
 OHS Digital Collections
-Information regarding their ownership can be found in each item’s individual record where there are links to their rights and creative commons statements. All items were available for educational re-use.
+
+Information regarding their ownership can be found in each item’s individual record where there are links to their rights and creative commons statements. 
+
+All items were available for educational re-use.
