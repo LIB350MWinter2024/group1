@@ -1,6 +1,6 @@
 ---
 title: Data Management Plan
-layout: default.html
+layout: about.html
 permalink: /datamanagementplan.html
 
 # include CollectionBuilder info at bottom
