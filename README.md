@@ -4,7 +4,7 @@ This course provides students with theoretical and practical experience in colle
 
 This repository was created by Frida Heitland and edited by Chloe Gold, Cassidy Perkins, Haley Sherman, and Danielle Lichtenstein.
 
-Visit the Oregon Flora Collection [here](https://lib350mwinter2024.github.io/group1/)
+Visit the Oregon Flora Collection [here](https://lib350mwinter2024.github.io/group1/).
 
 ## Oregon Flora Collection
 
