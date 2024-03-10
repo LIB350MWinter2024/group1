@@ -9,8 +9,8 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="ofc_004_nootkarose_2008" %}
-
-## About the Team
+# About
+## The Team
 
 Project Manager - Chloe Gold
 
@@ -19,17 +19,17 @@ Object Preservation Manager - Cassidy Perkins
 Metadata Manager - Haley Sherman
 
 Repository Manager: Danielle Lichtenstein
-## About the Collection
+## The Collection
 
 The Oregon Flora Collection (OFC) is a collection of botanical photographs and illustrations.
 
 The collection was created by four students at the University of Oregon with a variety of educational backgrounds in majors like English, Dance, and Journalism. Despite their different majors, these students found a common interest in Oregon flora. They wanted to make a collection for people in Oregon who enjoy the plants they see everyday, but aren’t scientists. As a result, none of the plants in this collection are referred to using their scientific names, but instead their common names.
-## About the Class
+## The Class
 
 LIB 400: Humanities Data Management 
 
 Winter 2024 - Kate Thornhill
-## About the Objects
+## The Objects
 
 Objects sourced from:
 
