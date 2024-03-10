@@ -44,6 +44,6 @@ Digital Public Library of America
 
 OHS Digital Collections
 
-* *Information regarding their ownership can be found in each item’s individual record where there are links to their rights and creative commons statements. 
+* *Information regarding their ownership can be found in each item’s individual record where there are links to their rights and creative commons statements.* *
 
-All items were available for educational re-use.* *
+* *All items were available for educational re-use.* *
