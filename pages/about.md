@@ -38,6 +38,7 @@ Winter 2024 - Kate Thornhill
 ## About the Objects
 
 All of the objects used in the collection were sourced from:
+
 Oregon Digital
 
 Oregon Flora
@@ -46,6 +47,6 @@ Digital Public Library of America
 
 OHS Digital Collections
 
-Information regarding their ownership can be found in each item’s individual record where there are links to their rights and creative commons statements. 
+_Information regarding their ownership can be found in each item’s individual record where there are links to their rights and creative commons statements. 
 
-All items were available for educational re-use.
+All items were available for educational re-use._
