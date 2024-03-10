@@ -34,7 +34,7 @@ Winter 2024 - Kate Thornhill
 
 ## About the Objects
 
-All of the objects used in the collection were sourced from:
+Objects sourced from:
 
 * Oregon Digital
 
