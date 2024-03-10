@@ -9,7 +9,7 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="ofc_004_nootkarose_2008" %}
-# About the Oregon Flora Collection
+# About:
 ## The Team
 
 Project Manager - Chloe Gold
