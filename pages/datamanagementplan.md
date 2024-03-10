@@ -1,7 +1,7 @@
 ---
 title: Data Management Plan
 layout: about
-permalink: /datamanagementplan.html
+permalink: /datamanagementplan.md
 ---
 
 | Metadata Element Name | Metadata Element Display Label | Metadata Element Obligation | Controlled Vocabulary | Browse or External link? | Metadata Element Definition and Data Standard Requirement | Example |
