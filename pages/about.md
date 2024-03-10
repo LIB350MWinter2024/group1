@@ -36,13 +36,13 @@ Winter 2024 - Kate Thornhill
 
 All of the objects used in the collection were sourced from:
 
-Oregon Digital
+* Oregon Digital
 
-Oregon Flora
+* Oregon Flora
 
-Digital Public Library of America
+* Digital Public Library of America
 
-OHS Digital Collections
+* OHS Digital Collections
 
 *Information regarding their ownership can be found in each item’s individual record where there are links to their rights and creative commons statements.* 
 
