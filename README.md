@@ -4,12 +4,14 @@ This course provides students with theoretical and practical experience in colle
 
 This repository was created by Frida Heitland and edited by Chloe Gold, Cassidy Perkins, Haley Sherman, and Danielle Lichtenstein.
 
-lib350mwinter2024.github.io/group1/
+(lib350mwinter2024.github.io/group1/)
 
 ## Oregon Flora Collection
 
 The Oregon Flora Collection is for people in Oregon who enjoy the plants they see everyday, but aren’t scientists. As a result, none of the plants in this collection are referred to using their scientific names, but instead their common names.
-# Add a brief description about your data management plan and link to your data management plan repository page’s webpage. 
+
+## Data Management Plan
+Add a brief description about your data management plan and link to your data management plan repository page’s webpage. 
 
 # CollectionBuilder-GH
 
